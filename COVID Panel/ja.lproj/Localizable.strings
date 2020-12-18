@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  COVID Panel
+
+  Created by Fan Zhang on 11/24/20.
+  
+*/
+
+"Dashboard" = "ダッシュボード";
+"Nearby" = "付近";
+"Saved Location" = "保存された場所";
+"Daily Growth Rate" = "毎日の成長率";
+"14 Days Growth Rate" = "2週間の成長率";
+"Fatality" = "致死率";
+"in total" = "合計";
+"new cases" = "新規の症例数";
+"Cases" = "感染";
+"Deaths" = "死亡";
+"Recovered" = "退院";
+"Data provided by Johns Hopkins University." = "Johns Hopkins University から提供されたデータ。";
+"Cancel" = "キャンセル";
+"Add" = "追加";
+"N/A" = "該当なし";
+"Search for location" = "位置検索";
+
+"Total" = "合計";
+"New" = "新規";
+"Daily Growth" = "毎日の成長率";
+"14 Days Growth" = "2週間の成長率";
+"Cumulative" = "累積";
+"Value" = "数値";
+"Log" = "対数";
+"One Week" = "1週間";
+"One Month" = "1か月";
+"Three Months" = "3ヶ月";
+"Data updated on:" = "最終データ更新：";
+"Translate" = "翻訳";
+"Show Origin" = "元の記事";
+
+"Map" = "地図";
+"in the past week" = "過去1週間以内";
+"in the past month" = "過去1か月以内";
+"in the past three months" = "過去3ヶ月以内";
+"Discard" = "スキップ";
+"Long press anywhere to show detail." = "詳細を表示するには、どこでも長押しします。";
+"Dismiss" = "スキップ";
+"Today's cases" = "今日の感染者数";
+"All cases" = "感染者合計数";
+"Today's deaths" = "今日の死亡者数";
+"All deaths" = "死亡者合計数";
+"None" = "無し";
+"Data is normalized." = "データは正規化されています。";
+"For a better visualization, the data for total cases and total deaths have been normalized, by doing natural logrithm operation on datapoints that are over a threshold, with those under showing linearly." = "より良い視覚化のために、総症例数と総死亡数のデータは正規化されており、しきい値を超えるデータポイントで自然対数演算を実行することにより、残りのデータは線形に表示されます。";
+"Confirm" = "確認";
+
+"Settings" = "設定";
+"Language" = "言語";
+"Display Language" = "使用言語";
+"Update" = "アップデート";
+"Choose a preferred language to use this app, which will affect the user interface and news translation." = "このアプリを使用するための優先言語を選択してください。これは、ユーザーインターフェイスとニュースの翻訳に影響します。";
+
+"Data Source" = "元のデータ";
+"News Provider" = "ニュースプロバイダー";
+"COVID-19 Data Provider" = "COVID-19 データプロバイダー";
+"All information is provided by third-party platforms." = "すべての情報はサードパーティのプラットフォームによって提供されます。";
+
+"About" = "概要";
+"Version:" = "バージョン：";
+"Rate & Review on App Store" = "App Storeで評価&レビュー";
+"Follow me on GitHub" = "GitHubでフォローする";
+"This app is built to alarm the users of the severeness of the pandemic. Stay safe, fella!" = "このアプリは、パンデミックの深刻さをユーザーに警告するように作られています。安全を確保してください。";
+
+

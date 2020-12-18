@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  COVID Panel
+
+  Created by Fan Zhang on 11/24/20.
+  
+*/
+
+"Dashboard" = "面板";
+"Nearby" = "附近";
+"Saved Location" = "保存位置";
+"Daily Growth Rate" = "日增长率";
+"14 Days Growth Rate" = "14天增长率";
+"Fatality" = "死亡率";
+"in total" = "总计";
+"new cases" = "新增病例";
+"Cases" = "确诊";
+"Deaths" = "死亡";
+"Recovered" = "康复";
+"Data provided by Johns Hopkins University." = "数据由 Johns Hopkins University 提供。";
+"Cancel" = "取消";
+"Add" = "添加";
+"N/A" = "不适用";
+"Search for location" = "搜索位置";
+
+"Total" = "总计";
+"New" = "新增";
+"Daily Growth" = "日增长率";
+"14 Days Growth" = "14天增长率";
+"Cumulative" = "累计";
+"Value" = "值";
+"Log" = "对数";
+"One Week" = "一星期";
+"One Month" = "一个月";
+"Three Months" = "三个月";
+"Data updated on:" = "数据上次更新：";
+"Translate" = "翻译";
+"Show Origin" = "显示原文";
+
+"Map" = "地图";
+"in the past week" = "过去一星期";
+"in the past month" = "过去一个月";
+"in the past three months" = "过去三个月";
+"Discard" = "关闭";
+"Long press anywhere to show detail." = "长按任何地方以显示详细信息。";
+"Dismiss" = "关闭";
+"Today's cases" = "今日确诊";
+"All cases" = "所有确诊";
+"Today's deaths" = "今日死亡";
+"All deaths" = "所有死亡";
+"None" = "无";
+"Data is normalized." = "数据已被标准化。";
+"For a better visualization, the data for total cases and total deaths have been normalized, by doing natural logrithm operation on datapoints that are over a threshold, with those under showing linearly." = "为了更好地可视化，对总病例数和总死亡人数的数据进行了标准化处理，通过对超过阈值的数据点进行自然​​对数运算，其他数据点进行线性显示。";
+"Confirm" = "确认";
+
+"Settings" = "设置";
+"Language" = "语言";
+"Display Language" = "显示语言";
+"Update" = "更新";
+"Choose a preferred language to use this app, which will affect the user interface and news translation."= "选择一种首选语言来使用此应用程序，这将影响用户界面和新闻翻译。";
+
+"Data Source" = "数据源";
+"News Provider" = "新闻数据源";
+"COVID-19 Data Provider" = "COVID-19 数据源";
+"All information is provided by third-party platforms." = "所有信息均由第三方平台提供。";
+
+"About" = "关于";
+"Version:" = "版本：";
+"Rate & Review on App Store" = "在 App Store 上评分和评论";
+"Follow me on GitHub" = "在 GitHub 上关注作者";
+"This app is built to alarm the users of the severeness of the pandemic. Stay safe, fella!" = "此应用程式的建立是为了提醒使用者关于全球大流行的严重性。保持安全，朋友！";
+
+

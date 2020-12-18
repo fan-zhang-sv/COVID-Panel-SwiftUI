@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  COVID Panel
+
+  Created by Fan Zhang on 11/24/20.
+  
+*/
+
+"Dashboard" = "Dashboard";
+"Nearby" = "Nearby";
+"Saved Location" = "Saved Location";
+"Daily Growth Rate" = "Daily Growth Rate";
+"14 Days Growth Rate" = "14 Days Growth Rate";
+"Fatality" = "Fatality";
+"in total" = "in total";
+"new cases" = "new cases";
+"Cases" = "Cases";
+"Deaths" = "Deaths";
+"Recovered" = "Recovered";
+"Data provided by Johns Hopkins University." = "Data provided by Johns Hopkins University.";
+"Cancel" = "Cancel";
+"Add" = "Add";
+"N/A" = "N/A";
+"Search for location" = "Search for location";
+
+"Total" = "Total";
+"New" = "New";
+"Daily Growth" = "Daily Growth";
+"14 Days Growth" = "14 Days Growth";
+"Cumulative" = "Cumulative";
+"Value" = "Value";
+"Log" = "Log";
+"One Week" = "One Week";
+"One Month" = "One Month";
+"Three Months" = "Three Months";
+"Data updated on:" = "Data updated on:";
+"Translate" = "Translate";
+"Show Origin" = "Show Origin";
+
+"Map" = "Map";
+"in the past week" = "in the past week";
+"in the past month" = "in the past month";
+"in the past three months" = "in the past three months";
+"Discard" = "Discard";
+"Long press anywhere to show detail." = "Long press anywhere to show detail.";
+"Dismiss" = "Dismiss";
+"Today's cases" = "Today's cases";
+"All cases" = "All cases";
+"Today's deaths" = "Today's deaths";
+"All deaths" = "All deaths";
+"None" = "None";
+"Data is normalized." = "Data is normalized.";
+"For a better visualization, the data for total cases and total deaths have been normalized, by doing natural logrithm operation on datapoints that are over a threshold, with those under showing linearly." = "For a better visualization, the data for total cases and total deaths have been normalized, by doing natural logrithm operation on datapoints that are over a threshold, with those under showing linearly.";
+"Confirm" = "Confirm";
+
+"Settings" = "Settings";
+"Language" = "Language";
+"Display Language" = "Display Language";
+"Update" = "Update";
+"Choose a preferred language to use this app, which will affect the user interface and news translation."= "Choose a preferred language to use this app, which will affect the user interface and news translation.";
+
+"Data Source" = "Data Source";
+"News Provider" = "News Provider";
+"COVID-19 Data Provider" = "COVID-19 Data Provider";
+"All information is provided by third-party platforms." = "All information is provided by third-party platforms.";
+
+"About" = "About";
+"Version:" = "Version:";
+"Rate & Review on App Store" = "Rate & Review on App Store";
+"Follow me on GitHub" = "Follow me on GitHub";
+"This app is built to alarm the users of the severeness of the pandemic. Stay safe, fella!" = "This app is built to alarm the users of the severeness of the pandemic. Stay safe, fella!";
+
+

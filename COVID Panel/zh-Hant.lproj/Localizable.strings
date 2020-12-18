@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  COVID Panel
+
+  Created by Fan Zhang on 11/24/20.
+  
+*/
+
+"Dashboard" = "儀表板";
+"Nearby" = "附近";
+"Saved Location" = "保存位置";
+"Daily Growth Rate" = "日成長率";
+"14 Days Growth Rate" = "兩週成長率";
+"Fatality" = "死亡率";
+"in total" = "總共";
+"new cases" = "新確診";
+"Cases" = "確診";
+"Deaths" = "死亡";
+"Recovered" = "康復";
+"Data provided by Johns Hopkins University." = "數據由 Johns Hopkins University 提供。";
+"Cancel" = "取消";
+"Add" = "新增";
+"N/A" = "不適用";
+"Search for location" = "搜尋位置";
+
+"Total" = "總共";
+"New" = "新增";
+"Daily Growth" = "日成長";
+"14 Days Growth" = "兩週成長";
+"Cumulative" = "累計";
+"Value" = "值";
+"Log" = "對數";
+"One Week" = "一星期";
+"One Month" = "一個月";
+"Three Months" = "三個月";
+"Data updated on:" = "上次數據更新：";
+"Translate" = "翻譯";
+"Show Origin" = "顯示原文";
+
+"Map" = "地圖";
+"in the past week" = "過去一星期";
+"in the past month" = "過去一個月";
+"in the past three months" = "過去三個月";
+"Discard" = "關閉";
+"Long press anywhere to show detail." = "長按任何地方以顯示詳情。";
+"Dismiss" = "關閉";
+"Today's cases" = "今日確診";
+"All cases" = "所有確診";
+"Today's deaths" = "今日死亡";
+"All deaths" = "所有死亡";
+"None" = "無";
+"Data is normalized." = "數據已經標準化";
+"For a better visualization, the data for total cases and total deaths have been normalized, by doing natural logrithm operation on datapoints that are over a threshold, with those under showing linearly." = "為了獲得更好的可視化效果，對總病例數和總死亡數進行了歸一化處理，超過閾值的數據點進行自然對數運算，其餘數據點進行線性顯示。";
+"Confirm" = "確認";
+
+"Settings" = "設置";
+"Language" = "語言";
+"Display Language" = "顯示語言";
+"Update" = "更新";
+"Choose a preferred language to use this app, which will affect the user interface and news translation." = "請選擇首選語言以使用本程式，本設置影響用家介面以及新聞翻譯。";
+
+"Data Source" = "數據來源";
+"News Provider" = "新聞來源";
+"COVID-19 Data Provider" = "COVID-19 數據來源";
+"All information is provided by third-party platforms." = "本程式所有資訊由第三方平台提供。";
+
+"About" = "關於";
+"Version:" = "版本：";
+"Rate & Review on App Store" = "於 App Store 評價本程式";
+"Follow me on GitHub" = "於 Github 關注作者";
+"This app is built to alarm the users of the severeness of the pandemic. Stay safe, fella!" = "本程式設計目的是警醒用家事關全球大流行的嚴重性。請保持安全，朋友！";

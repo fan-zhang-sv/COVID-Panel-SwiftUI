@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  COVID Panel
+
+  Created by Fan Zhang on 11/24/20.
+  
+*/
+
+"Dashboard" = "대시보드";
+"Nearby" = "주변";
+"Saved Location" = "저장된 위치";
+"Daily Growth Rate" = "일일 성장률";
+"14 Days Growth Rate" = "14 일 성장률";
+"Fatality" = "사망률";
+"in total" = "전체로";
+"new cases" = "새로 감염";
+"Cases" = "감염";
+"Deaths" = "죽음";
+"Recovered" = "회복";
+"Data provided by Johns Hopkins University." = "Johns Hopkins University에서 제공 한 데이터.";
+"Cancel" = "취소";
+"Add" = "추가";
+"N/A" = "통계 없음";
+"Search for location" = "위치 검색";
+
+"Total" = "전체로";
+"New" = "새로";
+"Daily Growth" = "일일 성장률";
+"14 Days Growth" = "14 일 성장률";
+"Cumulative" = "누적";
+"Value" = "값";
+"Log" = "대수";
+"One Week" = "한주";
+"One Month" = "한달";
+"Three Months" = "삼 개월";
+"Data updated on:" = "마지막으로 업데이트 된 데이터";
+"Translate" = "번역";
+"Show Origin" = "원래 글";
+
+"Map" = "지도";
+"in the past week" = "지난주";
+"in the past month" = "지난달";
+"in the past three months" = "지난 3 개월 동안";
+"Discard" = "닫기";
+"Long press anywhere to show detail." = "세부 사항을 표시하려면 아무 곳이나 길게 누르십시오.";
+"Dismiss" = "닫기";
+"Today's cases" = "오늘 감염된 사람 수";
+"All cases" = "감염된 모든 사람";
+"Today's deaths" = "오늘 사망자 수";
+"All deaths" = "모든 죽음";
+"None" = "없음";
+"Data is normalized." = "데이터가 정규화됩니다.";
+"For a better visualization, the data for total cases and total deaths have been normalized, by doing natural logrithm operation on datapoints that are over a threshold, with those under showing linearly." = "더 나은 시각화를 위해 임계 값을 초과하는 데이터 포인트에 대해 자연 로그 연산을 수행하여 총 케이스 및 총 사망에 대한 데이터가 정규화되었으며 나머지 데이터는 선형으로 표시됩니다.";
+"Confirm" = "승인";
+
+"Settings" = "설정";
+"Language" = "언어";
+"Display Language" = "표시언어";
+"Update" = "업데이트";
+"Choose a preferred language to use this app, which will affect the user interface and news translation."= "이 앱을 사용하기 위해 선호하는 언어를 선택하면 사용자 인터페이스와 뉴스 번역에 영향을줍니다.";
+
+"Data Source" = "데이터 원본";
+"News Provider" = "뉴스 공급자";
+"COVID-19 Data Provider" = "COVID-19 데이터 공급자";
+"All information is provided by third-party platforms." = "모든 정보는 타사 플랫폼에서 제공됩니다.";
+
+"About" = "정보";
+"Version:" = "버전:";
+"Rate & Review on App Store" = "App Store 에서 평가 및 리뷰";
+"Follow me on GitHub" = "GitHub 에서 팔로우";
+"This app is built to alarm the users of the severeness of the pandemic. Stay safe, fella!" = "이 앱은 전염병의 심각성을 사용자에게 경고하기 위해 제작되었습니다. 안전 해요, 친구!";
+
+

@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.4.0)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - GoogleMaps (4.0.0):
+    - GoogleMaps/Maps (= 4.0.0)
+  - GoogleMaps/Base (4.0.0)
+  - GoogleMaps/Maps (4.0.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.0.0):
+    - GoogleMaps/Base (= 4.0.0)
+  - Realm (10.1.4):
+    - Realm/Headers (= 10.1.4)
+  - Realm/Headers (10.1.4)
+  - RealmSwift (10.1.4):
+    - Realm (= 10.1.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - GoogleMaps (= 4.0.0)
+  - GooglePlaces (= 4.0.0)
+  - RealmSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - GoogleMaps
+    - GooglePlaces
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  GoogleMaps: b7f7fc569a9b354a3af0d9729dbec40957b7d41e
+  GooglePlaces: ca8d4aba09ba79e0a829cf1dca03a41de6a09016
+  Realm: 80f4fb2971ccb9adc27a47d0955ae8e533a7030b
+  RealmSwift: 0e566ca714edb377bba8ea0811eafcea0b93734e
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: e6e65bd1bd52dc1327d0bd4bdd63f766e25ce8d1
+
+COCOAPODS: 1.10.0
