@@ -41,9 +41,9 @@ struct MapView: View {
                                 .mapViewCardStyle(paddings: false)
                                 .padding(.horizontal, 8)
                         } else {
-                            InfoCardView(covidData: CovidDataModel.defaultCovidData(), buttonCallback: {})
+                            InfoCardView(covidData: CovidDataModel.defaultCovidData(), buttonCallback: closePanel)
                                 .mapViewCardStyle(paddings: false)
-                                .redacted(reason: .placeholder)
+//                                .redacted(reason: .placeholder)
                                 .padding(.horizontal, 8)
                         }
                     }
@@ -93,7 +93,8 @@ extension MapView {
         withAnimation {
             showPanel = true
         }
-        covidDataManager.updateViewFromCoordinates(lat: lat, lon: lon, mapGoTo: cameraRelocate)
+//        covidDataManager.updateViewFromCoordinates(lat: lat, lon: lon, mapGoTo: cameraRelocate)
+
     }
     
     func closePanel() {
@@ -107,8 +108,7 @@ extension MapView {
         withAnimation {
             showPanel = true
         }
-        covidDataManager.updateView(addr_string: topic, mapGoTo: cameraRelocate)
-        
+//        covidDataManager.updateView(addr_string: topic, mapGoTo: cameraRelocate)
     }
     
 }

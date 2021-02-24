@@ -22,7 +22,7 @@ struct CRUDView: View {
         NavigationView {
             VStack {
                 SearchBar(placeholder: "Search for location", text: $searchText, onTap: { location in
-                    covidDataManager.updateView(addr_string: location, mapGoTo: {_  in })
+//                    covidDataManager.updateView(addr_string: location, mapGoTo: {_  in })
                 })
                 .padding(.horizontal)
                 .padding(.bottom, 16)

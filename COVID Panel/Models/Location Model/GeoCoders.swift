@@ -19,7 +19,7 @@ struct GeoCoder {
     var params: [String: String] {
         [
             "address": addr_string,
-            "key": "AIzaSyA71lGqDushBuMVbwmCtfK2lw3wEEjtnQI"
+            "key": ""
         ]
     }
     

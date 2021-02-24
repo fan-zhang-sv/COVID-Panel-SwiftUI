@@ -140,7 +140,7 @@ struct NewsView_Previews: PreviewProvider {
 
 
 struct Placeholder: View {
-    let articles: [NewsModel] = [NewsModel.defaultNews(), NewsModel.defaultNews()]
+    let articles: [NewsModel] = [NewsModel.defaultNews(), NewsModel.defaultNews(), NewsModel.defaultNews()]
     
     var body: some View {
         ForEach(articles, id:\.id) { news in

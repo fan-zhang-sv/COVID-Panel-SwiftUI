@@ -10,7 +10,7 @@ import Alamofire
 import SwiftyJSON
 import RealmSwift
 
-let mapDotUpdaterBase = mapDotsUrl
+let mapDotUpdaterBase = ""
 
 struct MapDotUpdater {
     

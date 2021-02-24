@@ -101,16 +101,17 @@ struct DashboardView: View {
                 CRUDView()
             })
             .onAppear {
-                print("### on Appear refreshing")
-                DispatchQueue.main.async {
-                    if nearBy == nil {
-                        updateNearByFromLocation()
-                    }
-                    results = try! Realm().objects(CovidDataInRealm.self).sorted(byKeyPath: "order").sorted(byKeyPath: "order")
-                    for result in results {
-                        CovidDataInRealmUpdater.updateCovidDataInRealm(covidDataInRealm: result)
-                    }
-                }
+                // uncomment this to allow data refreshing
+//                print("### on Appear refreshing")
+//                DispatchQueue.main.async {
+//                    if nearBy == nil {
+//                        updateNearByFromLocation()
+//                    }
+//                    results = try! Realm().objects(CovidDataInRealm.self).sorted(byKeyPath: "order").sorted(byKeyPath: "order")
+//                    for result in results {
+//                        CovidDataInRealmUpdater.updateCovidDataInRealm(covidDataInRealm: result)
+//                    }
+//                }
             }
         }
     }

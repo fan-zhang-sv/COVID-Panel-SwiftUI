@@ -14,7 +14,7 @@ let translaterBase: String = "https://api.cognitive.microsofttranslator.com/tran
 
 let Translaterheaders: HTTPHeaders = [
     "content-type": "application/json; charset=UTF-8",
-    "Ocp-Apim-Subscription-Key": translateKey,
+    "Ocp-Apim-Subscription-Key": "",
     "Ocp-Apim-Subscription-Region": "westus2"
 ]
 

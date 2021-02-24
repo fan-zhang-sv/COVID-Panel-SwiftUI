@@ -11,7 +11,7 @@ import Alamofire
 import SwiftyJSON
 import GoogleMaps
 
-let covidDataAPIBase: String = covidDataUrl
+let covidDataAPIBase: String = ""
 
 struct CovidDataGarbber {
     

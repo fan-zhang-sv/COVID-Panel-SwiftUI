@@ -19,7 +19,7 @@ struct NewsListUpdater {
     let base: String = "https://my-news-app.cognitiveservices.azure.com/bing/v7.0/news/search"
     let headers: HTTPHeaders = [
         "content-type": "application/json",
-        "Ocp-Apim-Subscription-Key": newsKey
+        "Ocp-Apim-Subscription-Key": ""
     ]
     
     var paramTemplate: [String: String] {

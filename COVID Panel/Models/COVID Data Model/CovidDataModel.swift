@@ -73,9 +73,9 @@ struct CovidDataModel {
             county: "Santa Clara",
             state: "California",
             country: "United States",
-            cases: Array(0..<dataLength),
-            deaths: Array(0..<dataLength),
-            recovered: Array(0..<dataLength)
+            cases: (0..<dataLength).map({ num in num * num}),
+            deaths: (0..<dataLength).map({ num in num * num}),
+            recovered: (0..<dataLength).map({ num in num * num})
         )
     }
 
@@ -167,7 +167,7 @@ class CovidDataInRealm: Object {
     }
     
     static func addDataToRealm(name: String, order: Int, county: String, state: String, country: String) {
-        let data = CovidDataInRealm(name: name, order: order, county: county, state: state, country: country, cases: Array(0..<CovidDataModel.dataLength), deaths: Array(0..<CovidDataModel.dataLength), recovered: Array(0..<CovidDataModel.dataLength))
+        let data = CovidDataInRealm(name: name, order: order, county: county, state: state, country: country, cases: Array(0..<CovidDataModel.dataLength).map({ num in num * num}), deaths: Array(0..<CovidDataModel.dataLength).map({ num in num * num}), recovered: Array(0..<CovidDataModel.dataLength).map({ num in num * num}))
         data.createTime = Date(timeIntervalSinceReferenceDate: 0)
         let realm = try! Realm()
         do {

@@ -10,6 +10,8 @@ import Alamofire
 import SwiftyJSON
 import RealmSwift
 
+
+
 struct CovidDataInRealmUpdater {
     
     static func updateCovidDataInRealm(covidDataInRealm: CovidDataInRealm) {
