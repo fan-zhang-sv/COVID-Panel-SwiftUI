@@ -40,14 +40,16 @@ This app offers interface in English, Chinese (simplified), Chinese (traditional
 
 # Installation & Usgae
 
-If you'd like to download this project and compile for your own device. Simply download it from this page.
+For non-functional demo, please download the demo branch, and install it in your phone.
+
+If you'd like to download the functional project, download it from the main branch.
 
 After downloading it, you need to provide api keys to make this app works. Check under the Models folder, in which there are four module that need to be provided a key or URL to make it work, they are:
 
-**MapDotUpdater.swift**: mapDotsUrl (this api is developed by me, please contact me for the url.)
+MapDotUpdater.swift: mapDotsUrl (this api is developed by me, please contact me for the url.)
 
-**SingleLineTranslater.swift**: translateKey (this api key is for Bing Translate API.)
+SingleLineTranslater.swift: translateKey (this api key is for Bing Translate API.)
 
-**NewsListUpdater.swift**: newsKey (this api key is for Bing News API.)
+NewsListUpdater.swift: newsKey (this api key is for Bing News API.)
 
-**CovidDataGarbber.swift**: covidDataUrl (this api is developed by me, please contact me for the url.)
+CovidDataGrabber.swift: covidDataUrl (this api is developed by me, please contact me for the url.)
