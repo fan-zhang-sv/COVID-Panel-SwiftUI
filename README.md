@@ -38,9 +38,11 @@ This app offers interface in English, Chinese (simplified), Chinese (traditional
 
 <img src="https://github.com/fan-zhang-sv/COVID-Panel-SwiftUI/blob/main/Images/Posters/5.png?raw=true">
 
-# Installation & Usgae
+# Installation & Usage
 
-If you'd like to download this project and compile for your own device. Simply download it from this page.
+For non-functional demo, please download the demo branch, and install it in your phone.
+
+If you'd like to download the functional project, download it from the main branch.
 
 After downloading it, you need to provide api keys to make this app works. Check under the Models folder, in which there are four module that need to be provided a key or URL to make it work, they are:
 
